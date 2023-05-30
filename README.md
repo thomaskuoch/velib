@@ -1,3 +1,3 @@
 # Velib side project
 
-See Paris' Velib availability on a interactive map
+See Paris' Velib availability on an interactive map : https://thomaskuoch.github.io/velib/velib.html
